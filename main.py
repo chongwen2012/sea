@@ -75,6 +75,6 @@ if __name__ == "__main__":
         pyautogui.moveTo(regin)
         pyautogui.click()
     else:
-        print('未找到')
+        print('未找到')   
     # for target_image, click_times, deviation,waiting_time in TARGET_IMAGES:
     #     find_target(window_rect, target_image, click_times, deviation , waiting_time)
